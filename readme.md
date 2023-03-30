@@ -1,2 +1,3 @@
 <img width="1270" alt="Screen Shot 2023-03-30 at 1 35 10 PM" src="https://user-images.githubusercontent.com/50918400/228918714-6b35d084-440b-4bf1-acc9-6e37d1511e89.png">
 
+First step, I followed was downloading and installing Docker. After that, watching at the video I started using the cmd of my mac, to open visual studio and connect it with Docker. I also had to install commands such as nano, node, etc on my terminal so I can use them in future. I created 2 files on my Docker project, app.js and hello-docker and saw how I could run both files from a virtual online machine using my docker account. As of now, all my docker hub and docker account are ready for use. 
